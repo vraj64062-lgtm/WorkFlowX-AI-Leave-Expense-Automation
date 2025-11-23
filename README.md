@@ -37,5 +37,4 @@ This project demonstrates real enterprise automation use cases with AI orchestra
 3. Trigger via chat or play button.
 4. Observe approval path and notifications.
 
-## 🎯 Demo Script
-See demo_script.txt for judge presentation guidance.
+
