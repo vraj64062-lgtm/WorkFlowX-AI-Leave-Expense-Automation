@@ -1,0 +1,8 @@
+🎤 DEMO SCRIPT - WorkFlowX
+
+Hello Judges,
+This is WorkFlowX, an AI-powered automation assistant designed to streamline leave and expense approvals.
+
+A user submits a request, which is routed to an AI-simulated manager for evaluation. Based on the decision, the workflow triggers automated messages and logs the action.
+
+This demonstrates real-world enterprise logic, automation efficiency, and user-centric design using IBM watsonx Orchestrate.
