@@ -1,3 +1,4 @@
+🏆 Built for Agentic AI Hackathon | IBM watsonx Orchestrate Powered:-
 # 🤖 WorkFlowX - AI Leave & Expense Approval Automation
 
 An enterprise-grade AI workflow built using IBM watsonx Orchestrate to automate leave and expense approval processes with intelligent decision routing, logging, and email notifications.
@@ -36,5 +37,11 @@ This project demonstrates real enterprise automation use cases with AI orchestra
 2. Configure user inputs and manager simulation.
 3. Trigger via chat or play button.
 4. Observe approval path and notifications.
+
+## 📸 Workflow Preview
+![Workflow Diagram](architecture.png)
+
+> Visual representation of the AI-powered leave and expense approval system in IBM watsonx Orchestrate.
+
 
 
